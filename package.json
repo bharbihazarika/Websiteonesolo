@@ -72,7 +72,7 @@
             },
             "secondary_header": {
                 "type": "text",
-                "default": "Subscribe below to receive my latest posts directly in your inbox",
+                "default": "A newsletter where I put down learnings that I have gathered as a graduate student in NYU's Studio 20 program. Each semester, we work with news companies to figure out and fix the pipeline of news.",
                 "group": "homepage"
             },
             "post_feed_layout": {

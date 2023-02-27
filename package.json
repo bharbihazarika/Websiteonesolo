@@ -53,8 +53,8 @@
             },
             "typography": {
                 "type": "select",
-                "options": ["Modern sans-serif", "Elegant serif", "Consistent mono"],
-                "default": "Modern sans-serif"
+                "options": ["Modern sans-serif", "Elegant serif", "Consistent mono", "Chivo"],
+                "default": "Chivo"
             },
             "footer_text": {
                 "type": "text"

@@ -804,6 +804,10 @@ hr {
     letter-spacing: -0.005em;
 }
 
+.gh-primary-btn {
+    background-color: #EE4266;
+}
+
 /* Navigation
 /* ---------------------------------------------------------- */
 

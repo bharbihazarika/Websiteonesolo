@@ -44,7 +44,7 @@
         "custom": {
             "background_color": {
                 "type": "color",
-                "default": "#C5D1EB"
+                "default": "#ffffff"
             },
             "navigation_layout": {
                 "type": "select",

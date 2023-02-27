@@ -49,12 +49,12 @@
             "navigation_layout": {
                 "type": "select",
                 "options": ["Logo on the left", "Logo in the middle", "Stacked"],
-                "default": "Logo on the left"
+                "default": "Logo in the middle"
             },
             "typography": {
                 "type": "select",
-                "options": ["Modern sans-serif", "Elegant serif", "Consistent mono", "Chivo"],
-                "default": "Chivo"
+                "options": ["Modern sans-serif", "Elegant serif", "Consistent mono"],
+                "default": "Elegant serif"
             },
             "footer_text": {
                 "type": "text"

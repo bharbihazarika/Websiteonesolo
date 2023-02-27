@@ -3,7 +3,12 @@
     font-weight: 100 1000;
     src: url("../fonts/Manrope[wght].woff2") format("woff2-variations");
 }
-
+@font-face {
+    font-family: "Chivo";
+    font-style: normal;
+    font-weight: 900;
+    src: local('Chivo Black'), url(http://themes.googleusercontent.com/static/fonts/chivo/v4/uOXSiKkEygwkvR4cgUzOz_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
 @font-face {
     font-family: "Libre Baskerville";
     font-style: normal;
